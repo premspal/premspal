@@ -5,4 +5,4 @@ premspal/premspal is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-Adventure | Learning | Humility | Always on the lookout for things that actually work. | Ambition
+Adventure | Learning | Humility | Always on the lookout for things that actually work | Ambition | Self-Care
